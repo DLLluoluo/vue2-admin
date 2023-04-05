@@ -19,6 +19,7 @@
   "globals": {},
   "rules": {
     "eqeqeq": "warn",
-    "no-console": "warn"
+    "no-console": "warn",
+    "vue/multi-word-component-names": "off" 
   }
 }
