@@ -8,7 +8,7 @@
 export default {
   name: 'App',
   mounted() {
-    console.log(process.env.VUE_APP_ENV, '环境变量')
+    console.log(process.env.VUE_APP_ENV, '环境变量2')
   },
 }
 </script>
@@ -21,5 +21,6 @@ export default {
   text-align: center;
   color: #2c3e50;
   margin-top: 60px;
+  background-color: name;
 }
 </style>
