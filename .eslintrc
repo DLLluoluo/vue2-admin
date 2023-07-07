@@ -8,7 +8,7 @@
   "extends": [
     "eslint:recommended",
     "plugin:vue/essential",
-    "standard", 
+    "standard",
     "plugin:prettier/recommended"
   ],
   "parserOptions": {
@@ -20,6 +20,6 @@
   "rules": {
     "eqeqeq": "warn",
     "no-console": "warn",
-    "vue/multi-word-component-names": "off" 
+    "vue/multi-word-component-names": "off"
   }
 }
