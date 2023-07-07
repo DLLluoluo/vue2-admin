@@ -1,4 +1,4 @@
-# xcc
+# vue-xcc
 
 ## Project setup
 ```
