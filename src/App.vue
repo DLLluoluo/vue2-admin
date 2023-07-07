@@ -8,8 +8,8 @@
 export default {
   name: 'App',
   mounted() {
-    console.log(process.env.VUE_APP_ENV, '环境变量3'),
-  },
+    var a = 1
+  }
 }
 </script>
 
